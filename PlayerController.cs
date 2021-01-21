@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     Animator animator;
     Vector2 lookDirection = new Vector2(1, 0);
     public bool Walk;
+
     float horizontal;
 
     public float speed;
@@ -52,6 +53,8 @@ public class PlayerController : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Space) && !isJumping)
         {
+            animator.SetBool("isJumping", true);
+
             isJumping = true;
 
             rigidbody2d.AddForce(new Vector2(rigidbody2d.velocity.x, jumpForce));
@@ -62,6 +65,8 @@ public class PlayerController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Ground"))
         {
+            animator.SetBool("isJumping", false);
+
             isJumping = false;
             rigidbody2d.velocity = Vector2.zero;
         }
