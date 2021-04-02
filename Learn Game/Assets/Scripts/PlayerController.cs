@@ -15,6 +15,8 @@ public class PlayerController : MonoBehaviour
     bool isJumping;
     Rigidbody2D rigidbody2d;
 
+
+    //things preset for when the game starts.
     private void Start()
     {
         DontDestroyOnLoad(gameObject);
@@ -40,14 +42,27 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("Walk", false);
         }
 
-
         // determining which way character is moving and flipping to face that way.
         if (move > 0 && !facingRight)
+        {
             Flip();
+        }
+            
         else if (move < 0 && facingRight)
+        {
             Flip();
+        }
+
+        // if there is no horizontal movement STOP FUCKING WALKING.
+        if (move == 0)
+        {
+            animator.SetBool("Walk", false);
+        }
 
         rigidbody2d.velocity = new Vector2(speed * move, rigidbody2d.velocity.y);
+
+
+
 
         Jump();
     }
