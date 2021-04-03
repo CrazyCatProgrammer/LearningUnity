@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         DontDestroyOnLoad(gameObject);
-        DontDestroyOnLoad(GameObject.FindGameObjectWithTag("Respawn"));
+        DontDestroyOnLoad(GameObject.FindGameObjectWithTag("MainCamera"));
         rigidbody2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         Walk = false;
@@ -104,7 +104,7 @@ public class PlayerController : MonoBehaviour
         FindStartPos();
 
         players = GameObject.FindGameObjectsWithTag("Player");
-        extraCamera= GameObject.FindGameObjectsWithTag("Respawn");
+        extraCamera= GameObject.FindGameObjectsWithTag("MainCamera");
 
         if (players.Length > 1)
         {
