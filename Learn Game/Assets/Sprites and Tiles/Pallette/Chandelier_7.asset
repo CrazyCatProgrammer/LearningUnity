@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Chandelier_7
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300014, guid: 6417b840acb49a148a5e64dd8ee92bd3, type: 3}
+  m_Sprite: {fileID: 9083129267297534992, guid: 6417b840acb49a148a5e64dd8ee92bd3,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

@@ -3,41 +3,47 @@ guid: 6417b840acb49a148a5e64dd8ee92bd3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
+      213: 1976063245373077020
     second: Chandelier_0
   - first:
-      213: 21300002
+      213: -4748549010482785610
     second: Chandelier_1
   - first:
-      213: 21300004
+      213: 1532017102122886430
     second: Chandelier_2
   - first:
-      213: 21300006
+      213: -5375149405959807729
     second: Chandelier_3
   - first:
-      213: 21300008
+      213: 712402770443981072
     second: Chandelier_4
   - first:
-      213: 21300010
+      213: 6704801773099001968
     second: Chandelier_5
   - first:
-      213: 21300012
+      213: -4252768428454798518
     second: Chandelier_6
   - first:
-      213: 21300014
+      213: 9083129267297534992
     second: Chandelier_7
   - first:
-      213: 21300016
+      213: -8063087035206174874
     second: Chandelier_8
   - first:
-      213: 21300018
+      213: 1422878811043663306
     second: Chandelier_9
   - first:
-      213: 21300020
+      213: 525569003015907425
     second: Chandelier_10
   - first:
-      213: 21300022
+      213: -8914761265180993090
     second: Chandelier_11
+  - first:
+      213: 3037253357393878761
+    second: Chandelier_12
+  - first:
+      213: -2237290929349855287
+    second: Chandelier_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -93,7 +99,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -106,7 +112,43 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -115,18 +157,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 96
+        y: 151
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74c21b9af9ccf224891c4e21045c579a
-      internalID: 21300000
+      spriteID: c16fa225d036c6b10800000000000000
+      internalID: 1976063245373077020
       vertices: []
       indices: 
       edges: []
@@ -136,18 +178,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 96
+        y: 151
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8631cbc09ff1e89409e1354c848318ae
-      internalID: 21300002
+      spriteID: 6b214a775d3c91eb0800000000000000
+      internalID: -4748549010482785610
       vertices: []
       indices: 
       edges: []
@@ -157,18 +199,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 119
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2590223cb6abca44e8ee5a42f858da6c
-      internalID: 21300004
+      spriteID: e15abd9ff61d24510800000000000000
+      internalID: 1532017102122886430
       vertices: []
       indices: 
       edges: []
@@ -178,18 +220,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 119
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ead22d6eb5e9f642a82afbdc56114ba
-      internalID: 21300006
+      spriteID: f0d1d131812a765b0800000000000000
+      internalID: -5375149405959807729
       vertices: []
       indices: 
       edges: []
@@ -198,19 +240,19 @@ TextureImporter:
       name: Chandelier_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
+        x: 32
+        y: 87
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ae676c3d28c2014282b11d2347e2277
-      internalID: 21300008
+      spriteID: 01151559b86f2e900800000000000000
+      internalID: 712402770443981072
       vertices: []
       indices: 
       edges: []
@@ -219,19 +261,19 @@ TextureImporter:
       name: Chandelier_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 64
+        y: 87
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 812ec4dda538ff34f92cb3705a24c4da
-      internalID: 21300010
+      spriteID: 078a9f660bd3c0d50800000000000000
+      internalID: 6704801773099001968
       vertices: []
       indices: 
       edges: []
@@ -240,19 +282,19 @@ TextureImporter:
       name: Chandelier_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
+        x: 0
+        y: 55
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8caad0bcd9c30143b67706b87523891
-      internalID: 21300012
+      spriteID: a4b94fd75a12bf4c0800000000000000
+      internalID: -4252768428454798518
       vertices: []
       indices: 
       edges: []
@@ -261,19 +303,19 @@ TextureImporter:
       name: Chandelier_7
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
+        x: 32
+        y: 55
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82b9cc4f1f7f22c49b4989570611ee33
-      internalID: 21300014
+      spriteID: 0144932b1f1cd0e70800000000000000
+      internalID: 9083129267297534992
       vertices: []
       indices: 
       edges: []
@@ -282,19 +324,19 @@ TextureImporter:
       name: Chandelier_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 64
+        y: 55
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9d2ca00f50041647899e5bfee39b929
-      internalID: 21300016
+      spriteID: 6677a71cf092a1090800000000000000
+      internalID: -8063087035206174874
       vertices: []
       indices: 
       edges: []
@@ -303,19 +345,19 @@ TextureImporter:
       name: Chandelier_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 96
+        y: 55
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 847c8a5262e167144837fc3e3234d16a
-      internalID: 21300018
+      spriteID: acd00ba6db41fb310800000000000000
+      internalID: 1422878811043663306
       vertices: []
       indices: 
       edges: []
@@ -324,19 +366,23 @@ TextureImporter:
       name: Chandelier_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
+        x: 0
+        y: 23
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -6, y: 9}
+        - {x: -6, y: 13}
+        - {x: 16, y: 13}
+        - {x: 16, y: 9}
       tessellationDetail: 0
       bones: []
-      spriteID: 863900fd96974d74cb4b346da4994ef9
-      internalID: 21300020
+      spriteID: 16828b149323b4700800000000000000
+      internalID: 525569003015907425
       vertices: []
       indices: 
       edges: []
@@ -345,19 +391,73 @@ TextureImporter:
       name: Chandelier_11
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
+        x: 32
+        y: 23
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -16, y: 9}
+        - {x: -16, y: 13}
+        - {x: 16, y: 13}
+        - {x: 16, y: 9}
       tessellationDetail: 0
       bones: []
-      spriteID: dbbad953c288d624aa6b1584e7492e53
-      internalID: 21300022
+      spriteID: eb9997b9cd7684480800000000000000
+      internalID: -8914761265180993090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelier_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 9}
+        - {x: -16, y: 13}
+        - {x: 16, y: 13}
+        - {x: 16, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee135426dd762a20800000000000000
+      internalID: 3037253357393878761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chandelier_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 9}
+        - {x: -16, y: 13}
+        - {x: 6, y: 13}
+        - {x: 6, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f5e0e0cb83f0e0800000000000000
+      internalID: -2237290929349855287
       vertices: []
       indices: 
       edges: []
@@ -365,7 +465,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 45a09f3c3807c7f408ebdbbcd37971fd
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
