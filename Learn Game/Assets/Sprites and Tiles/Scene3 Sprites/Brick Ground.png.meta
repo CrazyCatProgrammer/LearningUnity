@@ -1,25 +1,31 @@
 fileFormatVersion: 2
-guid: fb7559acda9e45240a7af411790d0adb
+guid: 2ea3fb2559bc6bd4090c0798a8d7037c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5888328967533583435
-    second: ParallaxBackground_0
+      213: 4625149201354366137
+    second: Brick Ground_0
   - first:
-      213: 1949828680949998577
-    second: ParallaxBackground_1
+      213: -3373814272295467282
+    second: Brick Ground_1
   - first:
-      213: -3913189137120451922
-    second: ParallaxBackground_2
+      213: 541765790583722543
+    second: Brick Ground_2
   - first:
-      213: 6923247687145334327
-    second: ParallaxBackground_3
+      213: 3800860837041096645
+    second: Brick Ground_3
   - first:
-      213: -2609799095730087241
-    second: ParallaxBackground_4
+      213: 3410502612222229360
+    second: Brick Ground_4
   - first:
-      213: 631429145410938682
-    second: ParallaxBackground_5
+      213: -8853348059136911507
+    second: Brick Ground_5
+  - first:
+      213: -2456823289003489348
+    second: Brick Ground_6
+  - first:
+      213: -8317804231712176125
+    second: Brick Ground_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -63,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ParallaxBackground_0
+      name: Brick Ground_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1120
-        width: 320
-        height: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4c5b7e8ffb87b150800000000000000
-      internalID: 5888328967533583435
+      spriteID: 9bc98eb81b4df2040800000000000000
+      internalID: 4625149201354366137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ParallaxBackground_1
+      name: Brick Ground_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 896
-        width: 320
-        height: 224
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -164,20 +170,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f3a4eccade2f0b10800000000000000
-      internalID: 1949828680949998577
+      spriteID: ee68fa96bcdcd21d0800000000000000
+      internalID: -3373814272295467282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ParallaxBackground_2
+      name: Brick Ground_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 672
-        width: 320
-        height: 224
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea2a407763f81b9c0800000000000000
-      internalID: -3913189137120451922
+      spriteID: f22933bbd1db48700800000000000000
+      internalID: 541765790583722543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ParallaxBackground_3
+      name: Brick Ground_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 448
-        width: 320
-        height: 224
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,41 +212,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 736a75c2711541060800000000000000
-      internalID: 6923247687145334327
+      spriteID: 5c747802bce5fb430800000000000000
+      internalID: 3800860837041096645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ParallaxBackground_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 224
-        width: 320
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ba5fdbbc8128cbd0800000000000000
-      internalID: -2609799095730087241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ParallaxBackground_5
+      name: Brick Ground_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 320
-        height: 224
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,8 +233,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a372c09567943c800800000000000000
-      internalID: 631429145410938682
+      spriteID: 07b3c036e0a845f20800000000000000
+      internalID: 3410502612222229360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Ground_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671046e8d6922580800000000000000
+      internalID: -8853348059136911507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Ground_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74a074c3c97edd0800000000000000
+      internalID: -2456823289003489348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick Ground_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3080e81fe19319c80800000000000000
+      internalID: -8317804231712176125
       vertices: []
       indices: 
       edges: []
