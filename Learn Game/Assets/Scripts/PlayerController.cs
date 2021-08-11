@@ -19,8 +19,8 @@ public class PlayerController : MonoBehaviour
     //things preset for when the game starts.
     private void Start()
     {
-        DontDestroyOnLoad(gameObject);
-        DontDestroyOnLoad(GameObject.FindGameObjectWithTag("MainCamera"));
+        //DontDestroyOnLoad(gameObject);
+        //DontDestroyOnLoad(GameObject.FindGameObjectWithTag("MainCamera"));
         rigidbody2d = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         Walk = false;
@@ -99,23 +99,23 @@ public class PlayerController : MonoBehaviour
         transform.localScale = theScale;
     }
     // makes sure only ONE player loads on each level
-    private void OnLevelWasLoaded(int level)
-    {
-        FindStartPos();
+    //private void OnLevelWasLoaded(int level)
+    //{
+    //    //FindStartPos();
 
-        players = GameObject.FindGameObjectsWithTag("Player");
-        extraCamera= GameObject.FindGameObjectsWithTag("MainCamera");
+    //    players = GameObject.FindGameObjectsWithTag("Player");
+    //    extraCamera = GameObject.FindGameObjectsWithTag("MainCamera");
 
-        if (players.Length > 1)
-        {
-            Destroy(players[1]);
-            Destroy(extraCamera[1]);
-        }
-    }
+    //    if (players.Length > 1)
+    //    {
+    //        Destroy(players[1]);
+    //        Destroy(extraCamera[1]);
+    //    }
+    //}
 
     //find start position and put player there.
-    void FindStartPos()
-    {
-        transform.position = GameObject.FindWithTag("StartPos").transform.position;
-    }
+    //void FindStartPos()
+    //{
+    //    transform.position = GameObject.FindWithTag("StartPos").transform.position;
+    //}
 }
