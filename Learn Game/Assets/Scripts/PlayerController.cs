@@ -60,12 +60,9 @@ public class PlayerController : MonoBehaviour
         }
 
         rigidbody2d.velocity = new Vector2(speed * move, rigidbody2d.velocity.y);
-
-
-
-
         Jump();
     }
+
     void Jump()
     {
         if (Input.GetKey(KeyCode.Space) && !isJumping)
