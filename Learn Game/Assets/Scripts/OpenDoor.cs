@@ -21,6 +21,7 @@ public class OpenDoor : MonoBehaviour
 
     private void Start()
     {
+        playerDetected = false;
         sceneSwitch = FindObjectOfType<SceneSwitch>();
     }
 
