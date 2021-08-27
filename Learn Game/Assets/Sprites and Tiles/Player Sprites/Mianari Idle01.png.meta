@@ -1,28 +1,34 @@
 fileFormatVersion: 2
-guid: 376a4fdb7d425244fb121e81f0ee3bce
+guid: d1b2d83ef368b9a459d182b611ed822a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: Mianari Walk_0
+      213: -8355039264785605426
+    second: Mianari Idle01_0
   - first:
-      213: 21300002
-    second: Mianari Walk_1
+      213: -122081747266155929
+    second: Mianari Idle01_1
   - first:
-      213: 21300004
-    second: Mianari Walk_2
+      213: 5472250674460136383
+    second: Mianari Idle01_2
   - first:
-      213: 21300006
-    second: Mianari Walk_3
+      213: 4330879845570137153
+    second: Mianari Idle01_3
   - first:
-      213: 21300008
-    second: Mianari Walk_4
+      213: -6178704207735969322
+    second: Mianari Idle01_4
   - first:
-      213: 21300010
-    second: Mianari Walk_5
+      213: 4939252330244303453
+    second: Mianari Idle01_5
   - first:
-      213: 21300012
-    second: Mianari Walk_6
+      213: -6308313250357409847
+    second: Mianari Idle01_6
+  - first:
+      213: -5507595431598774126
+    second: Mianari Idle01_7
+  - first:
+      213: -6990667784436814946
+    second: Mianari Idle01_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -78,25 +84,61 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mianari Walk_0
+      name: Mianari Idle01_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 269d4c95776459b458f4627f589dc533
-      internalID: 21300000
+      spriteID: ecc530a3e00fc0c80800000000000000
+      internalID: -8355039264785605426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Walk_1
+      name: Mianari Idle01_1
       rect:
         serializedVersion: 2
         x: 32
@@ -131,14 +173,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5d5a62dcd6d02b4183cd878c59de29d
-      internalID: 21300002
+      spriteID: 76a44a43c474e4ef0800000000000000
+      internalID: -122081747266155929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Walk_2
+      name: Mianari Idle01_2
       rect:
         serializedVersion: 2
         x: 64
@@ -152,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca9f422418403fc4a92dba2c3f724100
-      internalID: 21300004
+      spriteID: fb39615cef651fb40800000000000000
+      internalID: 5472250674460136383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Walk_3
+      name: Mianari Idle01_3
       rect:
         serializedVersion: 2
         x: 96
@@ -173,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c112e8418f5e3f44dadd9d81a684a5f3
-      internalID: 21300006
+      spriteID: 14c4b1806406a1c30800000000000000
+      internalID: 4330879845570137153
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Walk_4
+      name: Mianari Idle01_4
       rect:
         serializedVersion: 2
         x: 128
@@ -194,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 397f358162180184e9b504d2bc793934
-      internalID: 21300008
+      spriteID: 6d9afad5245d04aa0800000000000000
+      internalID: -6178704207735969322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Walk_5
+      name: Mianari Idle01_5
       rect:
         serializedVersion: 2
         x: 160
@@ -215,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c2a70bf9fb2a5a4b9d84a78849cbd8e
-      internalID: 21300010
+      spriteID: d5a6b3833dfbb8440800000000000000
+      internalID: 4939252330244303453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Walk_6
+      name: Mianari Idle01_6
       rect:
         serializedVersion: 2
         x: 192
@@ -236,8 +278,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23727937ef627b3458060231b78d64fd
-      internalID: 21300012
+      spriteID: 9c78e8c858e5478a0800000000000000
+      internalID: -6308313250357409847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mianari Idle01_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298adfca2271193b0800000000000000
+      internalID: -5507595431598774126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mianari Idle01_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b60ed20b82cfe90800000000000000
+      internalID: -6990667784436814946
       vertices: []
       indices: 
       edges: []
@@ -245,7 +329,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f9d9a10f6c3763b49a05f617a1e392d1
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

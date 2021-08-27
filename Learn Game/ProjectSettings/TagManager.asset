@@ -55,6 +55,9 @@ TagManager:
   - name: Ground
     uniqueID: 1380641337
     locked: 0
+  - name: Platform
+    uniqueID: 2465144657
+    locked: 0
   - name: Player
     uniqueID: 2991854483
     locked: 0

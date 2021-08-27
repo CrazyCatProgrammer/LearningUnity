@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 8420769d56fe08340b990a99c69200b0
+guid: a061e59a441f0e845b974512a8b3d69e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: Mianari Jump_0
+      213: -3412789865202970158
+    second: MianariWalk01_0
   - first:
-      213: 21300002
-    second: Mianari Jump_1
+      213: 7008361966841619456
+    second: MianariWalk01_1
   - first:
-      213: 21300004
-    second: Mianari Jump_2
+      213: 8238039714879491440
+    second: MianariWalk01_2
   - first:
-      213: 21300006
-    second: Mianari Jump_3
+      213: 7283223222237720081
+    second: MianariWalk01_3
   - first:
-      213: 21300008
-    second: Mianari Jump_4
+      213: 6761185043800520930
+    second: MianariWalk01_4
   - first:
-      213: 21300010
-    second: Mianari Jump_5
+      213: -8347815671941858159
+    second: MianariWalk01_5
   - first:
-      213: 21300012
-    second: Mianari Jump_6
+      213: -2087648896636311307
+    second: MianariWalk01_6
   - first:
-      213: 21300014
-    second: Mianari Jump_7
+      213: 4572082920433793716
+    second: MianariWalk01_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -81,7 +81,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -94,12 +94,48 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mianari Jump_0
+      name: MianariWalk01_0
       rect:
         serializedVersion: 2
         x: 0
@@ -113,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5115de1ac1c8180478d4f14a92fbdd59
-      internalID: 21300000
+      spriteID: 2d1168703b553a0d0800000000000000
+      internalID: -3412789865202970158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_1
+      name: MianariWalk01_1
       rect:
         serializedVersion: 2
         x: 32
@@ -134,14 +170,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79c8e634a097c9848b0853661a092251
-      internalID: 21300002
+      spriteID: 004e3f2b314b24160800000000000000
+      internalID: 7008361966841619456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_2
+      name: MianariWalk01_2
       rect:
         serializedVersion: 2
         x: 64
@@ -155,14 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1c5ad5182eb10b458214397708b063a
-      internalID: 21300004
+      spriteID: 07dc3f24975635270800000000000000
+      internalID: 8238039714879491440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_3
+      name: MianariWalk01_3
       rect:
         serializedVersion: 2
         x: 96
@@ -176,14 +212,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a173498bb108bbe41b1365ce70daa7b9
-      internalID: 21300006
+      spriteID: 11eea55bee4331560800000000000000
+      internalID: 7283223222237720081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_4
+      name: MianariWalk01_4
       rect:
         serializedVersion: 2
         x: 128
@@ -197,14 +233,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1f4212aaf1b5784a9cf2d9f22f73615
-      internalID: 21300008
+      spriteID: 2e8f96c99fd84dd50800000000000000
+      internalID: 6761185043800520930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_5
+      name: MianariWalk01_5
       rect:
         serializedVersion: 2
         x: 160
@@ -218,14 +254,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90b62329c830a5841b066aa201303196
-      internalID: 21300010
+      spriteID: 19c777fffd9962c80800000000000000
+      internalID: -8347815671941858159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_6
+      name: MianariWalk01_6
       rect:
         serializedVersion: 2
         x: 192
@@ -239,14 +275,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 827439c792f1b424597cb05e9cafff99
-      internalID: 21300012
+      spriteID: 5f8a14ca36e2703e0800000000000000
+      internalID: -2087648896636311307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mianari Jump_7
+      name: MianariWalk01_7
       rect:
         serializedVersion: 2
         x: 224
@@ -260,8 +296,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42a78cdea769694459f7bcdd0e0edc19
-      internalID: 21300014
+      spriteID: 4ba3614313d437f30800000000000000
+      internalID: 4572082920433793716
       vertices: []
       indices: 
       edges: []
@@ -269,7 +305,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8544535468f620e41bc48e233a3b3101
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
