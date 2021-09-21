@@ -14,8 +14,7 @@ public class PlayerController : MonoBehaviour
     public float jumpForce;
     bool isJumping;
     Rigidbody2D rigidbody2d;
-
-
+    
     //things preset for when the game starts.
     private void Start()
     {
@@ -41,6 +40,11 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetBool("Walk", false);
         }
+
+        //if (Input.GetKey(KeyCode.S))
+        //{
+        //    JumpDown();
+        //}
 
         // determining which way character is moving and flipping to face that way.
         if (move > 0 && !facingRight)
@@ -76,6 +80,13 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    //private IEnumerator JumpDown()
+    //{
+    //    Physics2D.IgnoreLayerCollision(8, 9, true);
+    //    yield return new WaitForSeconds(0.5f);
+    //    Physics2D.IgnoreLayerCollision(8, 9, false);
+    //}
+
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.CompareTag("Ground"))
@@ -95,24 +106,5 @@ public class PlayerController : MonoBehaviour
         theScale.x *= -1;
         transform.localScale = theScale;
     }
-    // makes sure only ONE player loads on each level
-    //private void OnLevelWasLoaded(int level)
-    //{
-    //    //FindStartPos();
 
-    //    players = GameObject.FindGameObjectsWithTag("Player");
-    //    extraCamera = GameObject.FindGameObjectsWithTag("MainCamera");
-
-    //    if (players.Length > 1)
-    //    {
-    //        Destroy(players[1]);
-    //        Destroy(extraCamera[1]);
-    //    }
-    //}
-
-    //find start position and put player there.
-    //void FindStartPos()
-    //{
-    //    transform.position = GameObject.FindWithTag("StartPos").transform.position;
-    //}
 }
