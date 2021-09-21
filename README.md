@@ -24,3 +24,6 @@ How to create pop up text on screen https://www.youtube.com/watch?v=1NCvpZDtTMI&
 
 
 How to switch between scenes/levels https://www.youtube.com/watch?v=P6OFhHz93YU&t=856s
+
+
+How to drop down player through platforms https://www.youtube.com/watch?v=M_kg7yjuhNg
