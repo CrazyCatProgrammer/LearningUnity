@@ -7,6 +7,8 @@ public class SceneSwitch : MonoBehaviour
 {
     public static string prevScene;
     public static string currentScene;
+    public Animator transition;
+    public float transitionTime = 1f;
 
     public virtual void Start()
     {
@@ -16,6 +18,13 @@ public class SceneSwitch : MonoBehaviour
     public void SwitchScene(string sceneName)
     {
         prevScene = currentScene;
+        StartCoroutine(SwitchAnimation());
         SceneManager.LoadScene(sceneName);
+    }
+
+    IEnumerator SwitchAnimation()
+    {
+        transition.SetTrigger("Start");
+        yield return new WaitForSeconds(transitionTime);
     }
 }
