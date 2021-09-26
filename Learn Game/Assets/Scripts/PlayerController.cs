@@ -71,12 +71,14 @@ public class PlayerController : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space) && !isJumping)
         {
+
             animator.SetBool("isJumping", true);
 
             isJumping = true;
             Walk = false;
 
             rigidbody2d.AddForce(new Vector2(rigidbody2d.velocity.x, jumpForce));
+            PlayerSounds.PlaySound("jump");
         }
     }
 
