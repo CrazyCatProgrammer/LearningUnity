@@ -29,3 +29,7 @@ How to switch between scenes/levels https://www.youtube.com/watch?v=P6OFhHz93YU&
 How to drop down player through platforms https://www.youtube.com/watch?v=M_kg7yjuhNg
 
 How to create scene transition animations https://www.youtube.com/watch?v=CE9VOZivb3I
+
+How to keep music playing between scenes: https://www.youtube.com/watch?v=Xtfe5S9n4SI
+
+How to add sound effects to character: https://www.youtube.com/watch?v=8pFlnyfRfRc
