@@ -15175,6 +15175,7 @@ GameObject:
   - component: {fileID: 1627920419}
   - component: {fileID: 1627920418}
   - component: {fileID: 1627920417}
+  - component: {fileID: 1627920421}
   m_Layer: 0
   m_Name: Platforms
   m_TagString: Ground
@@ -16581,6 +16582,19 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &1627920421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627920415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b720e30a735a7240889fa6cc2fc341c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waitTime: 0
 --- !u!1 &1709522323
 GameObject:
   m_ObjectHideFlags: 0
