@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 2f6f87a339329de46bc0ffdf87e84174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5156397369305422575
+    second: New Wood Wall_0
+  - first:
+      213: -6335439741125306029
+    second: New Wood Wall_1
+  - first:
+      213: -3215197248172766179
+    second: New Wood Wall_2
+  - first:
+      213: 1541687354254407273
+    second: New Wood Wall_3
+  - first:
+      213: 76892899313352077
+    second: New Wood Wall_4
+  - first:
+      213: 883704886023134888
+    second: New Wood Wall_5
+  - first:
+      213: 8741773560322015858
+    second: New Wood Wall_6
+  - first:
+      213: -137785764252870685
+    second: New Wood Wall_7
+  - first:
+      213: 1719519051823869963
+    second: New Wood Wall_8
+  - first:
+      213: -6870606542231536095
+    second: New Wood Wall_9
+  - first:
+      213: -7384216389230429951
+    second: New Wood Wall_10
+  - first:
+      213: -4528641693381973025
+    second: New Wood Wall_11
+  - first:
+      213: 4551772291157879574
+    second: New Wood Wall_12
+  - first:
+      213: -5385052741725683565
+    second: New Wood Wall_13
+  - first:
+      213: 8323735317169357644
+    second: New Wood Wall_14
+  - first:
+      213: 3531641314043173865
+    second: New Wood Wall_15
+  - first:
+      213: -7927830178218833065
+    second: New Wood Wall_16
+  - first:
+      213: 2569720567073599526
+    second: New Wood Wall_17
+  - first:
+      213: -1627817896030819645
+    second: New Wood Wall_18
+  - first:
+      213: 3215829348777201186
+    second: New Wood Wall_19
+  - first:
+      213: -5566887428757727954
+    second: New Wood Wall_20
+  - first:
+      213: -2462642209950688981
+    second: New Wood Wall_21
+  - first:
+      213: -6018924786353075261
+    second: New Wood Wall_22
+  - first:
+      213: 4217870434286390974
+    second: New Wood Wall_23
+  - first:
+      213: -2957481948448160111
+    second: New Wood Wall_24
+  - first:
+      213: -905847358237454766
+    second: New Wood Wall_25
+  - first:
+      213: -2038924548611951913
+    second: New Wood Wall_26
+  - first:
+      213: -6700661772784339733
+    second: New Wood Wall_27
+  - first:
+      213: -7419634438193925462
+    second: New Wood Wall_28
+  - first:
+      213: -6215745429712852199
+    second: New Wood Wall_29
+  - first:
+      213: 6307004662152696544
+    second: New Wood Wall_30
+  - first:
+      213: -7337634502033269797
+    second: New Wood Wall_31
+  - first:
+      213: -6206084219541532950
+    second: New Wood Wall_32
+  - first:
+      213: -7577252801228554335
+    second: New Wood Wall_33
+  - first:
+      213: 4275827292686111006
+    second: New Wood Wall_34
+  - first:
+      213: 9076699846361074218
+    second: New Wood Wall_35
+  - first:
+      213: -2937305088963879556
+    second: New Wood Wall_36
+  - first:
+      213: 7200797780239351302
+    second: New Wood Wall_37
+  - first:
+      213: 8823029854857501937
+    second: New Wood Wall_38
+  - first:
+      213: 7991911329597308134
+    second: New Wood Wall_39
+  - first:
+      213: -5634357039121666336
+    second: New Wood Wall_40
+  - first:
+      213: -291792722498088607
+    second: New Wood Wall_41
+  - first:
+      213: -1620430396929772199
+    second: New Wood Wall_42
+  - first:
+      213: 8170956394388172595
+    second: New Wood Wall_43
+  - first:
+      213: -6936061809926302035
+    second: New Wood Wall_44
+  - first:
+      213: 2106946677103250346
+    second: New Wood Wall_45
+  - first:
+      213: 7566581319956735377
+    second: New Wood Wall_46
+  - first:
+      213: -7392768846428309752
+    second: New Wood Wall_47
+  - first:
+      213: -2582119230737831348
+    second: New Wood Wall_48
+  - first:
+      213: -1087819771835921875
+    second: New Wood Wall_49
+  - first:
+      213: -610637265480999583
+    second: New Wood Wall_50
+  - first:
+      213: -4797066828048575379
+    second: New Wood Wall_51
+  - first:
+      213: -2429506704163908982
+    second: New Wood Wall_52
+  - first:
+      213: 928681498133885032
+    second: New Wood Wall_53
+  - first:
+      213: -5015781837861757254
+    second: New Wood Wall_54
+  - first:
+      213: 3733189288021725356
+    second: New Wood Wall_55
+  - first:
+      213: 7406442929414230396
+    second: New Wood Wall_56
+  - first:
+      213: -6162880760909911281
+    second: New Wood Wall_57
+  - first:
+      213: 6323036559680012451
+    second: New Wood Wall_58
+  - first:
+      213: -7939227039762332140
+    second: New Wood Wall_59
+  - first:
+      213: -4277513693973596881
+    second: New Wood Wall_60
+  - first:
+      213: 7946408967895364034
+    second: New Wood Wall_61
+  - first:
+      213: -4563296699233982932
+    second: New Wood Wall_62
+  - first:
+      213: -676579248780767992
+    second: New Wood Wall_63
+  - first:
+      213: 4612156096159173899
+    second: New Wood Wall_64
+  - first:
+      213: -7206680504600022118
+    second: New Wood Wall_65
+  - first:
+      213: -803673729354166833
+    second: New Wood Wall_66
+  - first:
+      213: 7448608619055336629
+    second: New Wood Wall_67
+  - first:
+      213: 7187941372809714967
+    second: New Wood Wall_68
+  - first:
+      213: -5172853054130537392
+    second: New Wood Wall_69
+  - first:
+      213: 3240107326984942893
+    second: New Wood Wall_70
+  - first:
+      213: -4412803545979264644
+    second: New Wood Wall_71
+  - first:
+      213: 8510693910122667173
+    second: New Wood Wall_72
+  - first:
+      213: -2767362755714173557
+    second: New Wood Wall_73
+  - first:
+      213: 7795726742151905990
+    second: New Wood Wall_74
+  - first:
+      213: -2338525901992113390
+    second: New Wood Wall_75
+  - first:
+      213: 4669204705041043864
+    second: New Wood Wall_76
+  - first:
+      213: -7845667732362320478
+    second: New Wood Wall_77
+  - first:
+      213: 2953443393795983123
+    second: New Wood Wall_78
+  - first:
+      213: -8021118269350537627
+    second: New Wood Wall_79
+  - first:
+      213: 1332085252701093318
+    second: New Wood Wall_80
+  - first:
+      213: 195874296664368332
+    second: New Wood Wall_81
+  - first:
+      213: 4375219839974520940
+    second: New Wood Wall_82
+  - first:
+      213: -1755366789500891343
+    second: New Wood Wall_83
+  - first:
+      213: 4035840080602192476
+    second: New Wood Wall_84
+  - first:
+      213: -5755975985802435705
+    second: New Wood Wall_85
+  - first:
+      213: 1664220196856108111
+    second: New Wood Wall_86
+  - first:
+      213: -3147960155709124978
+    second: New Wood Wall_87
+  - first:
+      213: 53481547692203478
+    second: New Wood Wall_88
+  - first:
+      213: -2620424005130026038
+    second: New Wood Wall_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Wood Wall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea553e66143f8740800000000000000
+      internalID: 5156397369305422575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 868
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359555e3f1ff318a0800000000000000
+      internalID: -6335439741125306029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 868
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c49db33235163d0800000000000000
+      internalID: -3215197248172766179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966bb010b7c256510800000000000000
+      internalID: 1541687354254407273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 836
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d725d3fad211100800000000000000
+      internalID: 76892899313352077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 836
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9fa969ec834c00800000000000000
+      internalID: 883704886023134888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 836
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27245e9bcb4015970800000000000000
+      internalID: 8741773560322015858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71a92d39c761ef0800000000000000
+      internalID: -137785764252870685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 804
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007a7c9775fcd710800000000000000
+      internalID: 1719519051823869963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 804
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e70da70c3b6a0a0800000000000000
+      internalID: -6870606542231536095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1097d47315ef58990800000000000000
+      internalID: -7384216389230429951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba1f6af580721c0800000000000000
+      internalID: -4528641693381973025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6ee058c42b2f30800000000000000
+      internalID: 4551772291157879574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39082b800137445b0800000000000000
+      internalID: -5385052741725683565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c0408b29d38370800000000000000
+      internalID: 8323735317169357644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb13ad4019e20130800000000000000
+      internalID: 3531641314043173865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b05a3d470baf190800000000000000
+      internalID: -7927830178218833065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ff64ad3b79a320800000000000000
+      internalID: 2569720567073599526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2f048f34d869e0800000000000000
+      internalID: -1627817896030819645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e042821cbe0ac20800000000000000
+      internalID: 3215829348777201186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25de40d0617eb2b0800000000000000
+      internalID: -5566887428757727954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29910b25ffe2ddd0800000000000000
+      internalID: -2462642209950688981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb81a3ebcb787ca0800000000000000
+      internalID: -6018924786353075261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe434010d2e88a30800000000000000
+      internalID: 4217870434286390974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960e1956d9e4f6d0800000000000000
+      internalID: -2957481948448160111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ec78780a8cd63f0800000000000000
+      internalID: -905847358237454766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2392cfce844b3e0800000000000000
+      internalID: -2038924548611951913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be476298e977203a0800000000000000
+      internalID: -6700661772784339733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa232341ac9280990800000000000000
+      internalID: -7419634438193925462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b25bfc67c3db9a0800000000000000
+      internalID: -6215745429712852199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21854035bf68750800000000000000
+      internalID: 6307004662152696544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb18aefb4c7b2a90800000000000000
+      internalID: -7337634502033269797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec118984f8fd9a0800000000000000
+      internalID: -6206084219541532950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 708
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af307929b038d690800000000000000
+      internalID: -7577252801228554335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d975b44ac65b30800000000000000
+      internalID: 4275827292686111006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac13b7b6ae6fd70800000000000000
+      internalID: 9076699846361074218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d5c5785989c37d0800000000000000
+      internalID: -2937305088963879556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e769efd6f5ee360800000000000000
+      internalID: 7200797780239351302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc927518e2b17a70800000000000000
+      internalID: 8823029854857501937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec3115e209f8ee60800000000000000
+      internalID: 7991911329597308134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee6e61002ebec1b0800000000000000
+      internalID: -5634357039121666336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161157b901853fbf0800000000000000
+      internalID: -291792722498088607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95571cfa3231389e0800000000000000
+      internalID: -1620430396929772199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa6b29c81156170800000000000000
+      internalID: 8170956394388172595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6903f58882ebf90800000000000000
+      internalID: -6936061809926302035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 676
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabcd69f6d06d3d10800000000000000
+      internalID: 2106946677103250346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a02cfe95e10960800000000000000
+      internalID: 7566581319956735377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f01a17eb976990800000000000000
+      internalID: -7392768846428309752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aaa248d387a2cd0800000000000000
+      internalID: -2582119230737831348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ac2185ea947e0f0800000000000000
+      internalID: -1087819771835921875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d936074a49687f0800000000000000
+      internalID: -610637265480999583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64da56c2256d6db0800000000000000
+      internalID: -4797066828048575379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8251ee4688a84ed0800000000000000
+      internalID: -2429506704163908982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8607fb5f6e653ec00800000000000000
+      internalID: 928681498133885032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed4634efc546ab0800000000000000
+      internalID: -5015781837861757254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca014dfc0e3fec330800000000000000
+      internalID: 3733189288021725356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7150f07a98f8c660800000000000000
+      internalID: 7406442929414230396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_57
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 644
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b20eca99c097aa0800000000000000
+      internalID: -6162880760909911281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a009890040ffb750800000000000000
+      internalID: 6323036559680012451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164ac7321332d190800000000000000
+      internalID: -7939227039762332140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b5d465f733a4c0800000000000000
+      internalID: -4277513693973596881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b16bbad0574e60800000000000000
+      internalID: 7946408967895364034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26227554d9eba0c0800000000000000
+      internalID: -4563296699233982932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d850602ce4c96f0800000000000000
+      internalID: -676579248780767992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d4830888ba10040800000000000000
+      internalID: 4612156096159173899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 580
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933591834abcfb90800000000000000
+      internalID: -7206680504600022118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd088e4007c8d4f0800000000000000
+      internalID: -803673729354166833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcc4b91316ce5760800000000000000
+      internalID: 7448608619055336629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d18a06892b0c360800000000000000
+      internalID: 7187941372809714967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c3141ed855638b0800000000000000
+      internalID: -5172853054130537392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f313727c27fc20800000000000000
+      internalID: 3240107326984942893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7162521e8292c2c0800000000000000
+      internalID: -4412803545979264644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac11f8050f0c1670800000000000000
+      internalID: 8510693910122667173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 548
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85b20d5c3a5899d0800000000000000
+      internalID: -2767362755714173557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24aff1b2cff2c60800000000000000
+      internalID: 7795726742151905990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bc5b90513eb8fd0800000000000000
+      internalID: -2338525901992113390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891dd83d0f85cc040800000000000000
+      internalID: 4669204705041043864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5accaf3c69e1390800000000000000
+      internalID: -7845667732362320478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3170f6f5e1dbcf820800000000000000
+      internalID: 2953443393795983123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56617f58e634fa090800000000000000
+      internalID: -8021118269350537627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_80
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdf8c9ca748c7210800000000000000
+      internalID: 1332085252701093318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 516
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42f4192a2e7b200800000000000000
+      internalID: 195874296664368332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683ce77347e7bc30800000000000000
+      internalID: 4375219839974520940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f084d843fa3a7e0800000000000000
+      internalID: -1755366789500891343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ad396ab2f220830800000000000000
+      internalID: 4035840080602192476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783219e565aae10b0800000000000000
+      internalID: -5755975985802435705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4493ad937f781710800000000000000
+      internalID: 1664220196856108111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecfdfbae23054d0800000000000000
+      internalID: -3147960155709124978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5b3c2f210eb000800000000000000
+      internalID: 53481547692203478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Wood Wall_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3815d304262abd0800000000000000
+      internalID: -2620424005130026038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

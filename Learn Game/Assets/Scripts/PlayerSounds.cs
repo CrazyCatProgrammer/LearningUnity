@@ -13,7 +13,7 @@ public class PlayerSounds : MonoBehaviour
         //note: The audio folder is strickly for music whereas the Resources folder is for sound effects. i.g. jumping, fight sounds, death sounds, ect.
         jumpSound = Resources.Load<AudioClip>("jump");
         audioSrc = GetComponent<AudioSource>();
-
+        DontDestroyOnLoad(GameObject.FindGameObjectWithTag("PlayerSounds"));
     }
 
     // Update is called once per frame
